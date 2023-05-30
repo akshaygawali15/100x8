@@ -101,6 +101,7 @@ DB
 
 
 
+
 signup
 
 	form 
@@ -117,6 +118,7 @@ signup
 	
 	
 login 
+
 	form
 		email 
 		password
@@ -127,8 +129,7 @@ dashboard
 
 	menu
 		home
-
-			my income (select + amount from tranjection where uid)
+                        my income (select + amount from tranjection where uid)
 			my refer(select count of uid  from users where uid)
 			avlable pin
 			my balance (select balance from user where uid)
