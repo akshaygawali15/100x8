@@ -221,3 +221,56 @@ dashboard
 			list of tranjection
 				
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+plan
+
+
+	start 1000 joining
+	
+	after 10000 withdrawl 2500 plan,
+	after 25000 withdrawl 5000 plan,
+	after 50000 withdrawl 10000 plan,
+	after 100000 withdrawl 20000 plan,
+	after 200000 withdrawl 30000 plan,
+	after 300000 withdrawl 50000 plan
+	
+	
+income exampal with 5 member chan
+
+	1st level 5 ₹ 500.00 ₹ 500.00 
+	2nd level 25 ₹ 2,500.00 ₹ 3,000.00 
+	3rd level 125 ₹ 12,500.00 ₹ 15,500.00 
+	4th level 625 ₹ 62,500.00 ₹ 75,000.00 
+	5th level 3125 ₹ 312,500.00 ₹ 390,500.00 
+	6th level 15625 ₹ 1,562,500.00 ₹ 1,953,000.00 
+	7th level 78125 ₹ 7,812,500.00 ₹ 9,765,500.00 
+	8th level 390625 ₹39,062,500.00 ₹ 48,828,000.00
+	
+	
+	
+income exampal with 10 member chan
+
+	1st level 10 ₹ 1,000.00 ₹ 1,000.00 
+	2nd level 50 ₹ 5,000.00 ₹ 6,000.00 
+	3rd level 250 ₹ 25,000.00 ₹ 31,000.00 
+	4th level 1250 ₹ 125,000.00 ₹ 150,000.00 
+	5th level 6250 ₹ 625,000.00 ₹ 781,000.00 
+	6th level 31250 ₹ 3,125,000.00 ₹ 3,906,000.00 
+	7th level 156250 ₹15,625,000.00 ₹ 19,531,000.00 
+	8th level 781250 ₹78,125,000.00 ₹ 97,656,000.00 
